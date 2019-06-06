@@ -1,5 +1,8 @@
 h1 {color: red;}
 
-p{color: green;}
+p{color: green;
+  border: 20px;
+  padding: 10%;
+  border-color: yellow;}
 
 body{background-color: black;}
