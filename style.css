@@ -1,8 +1,6 @@
-h1 {color: red;}
+h1, h3 {color: red;}
 
 p{color: green;
-  border: 20px;
-  padding: 10%;
-  border-color: yellow;}
+  padding: 10%;}
 
 body{background-color: black;}
